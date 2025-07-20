@@ -17,38 +17,39 @@ This internship program offers a 360° learning experience in **Data Analytics, 
 
 ## 📂 Project List
 
-| #  | Project Name                                         | Description                                                                 |
-|----|------------------------------------------------------|-----------------------------------------------------------------------------|
-| 1  | Intro to AI & DA                                     | Basics of Artificial Intelligence and Data Analytics                        |
-| 2  | Power Query - Excel                                  | Automating sales visualization using Power Query                           |
-| 3  | Formula & Pivot Table - Excel                        | Creating visual reports using Pivot Tables and Excel formulas              |
-| 4  | Dashboards and Charts - Excel                        | Designing dashboards from cleaned data                                     |
-| 5  | VBA Macros Automation - Excel                        | Automating Excel operations using VBA Macros                               |
-| 6  | Intro to Statistics                                  | Learning fundamental statistical concepts                                   |
-| 7  | Land Price Prediction                                | Applying statistical methods on land price dataset                         |
-| 8  | Permutation & Combination                            | Understanding P&C with real-life examples                                  |
-| 9  | Probability                                          | Basics of probability with examples                                        |
-| 10 | Population and Sampling                              | Exploring types and techniques of sampling                                 |
-| 11 | Probability Distribution                             | Types and application of probability distributions                         |
-| 12 | Hypothesis Testing                                   | Concepts and terminology of hypothesis testing                             |
-| 13 | Intro to Tableau                                     | Getting started with Tableau BI Tool                                       |
-| 14 | Data Analysis with Tableau                           | Cleaning and processing data in Tableau                                    |
-| 15 | Tableau Dashboard Creation                           | Building interactive dashboards in Tableau                                 |
-| 16 | Intro to Power BI                                    | Introduction to Microsoft Power BI                                         |
-| 17 | Dashboard with Power BI & PowerBI.com                | Creating dashboards and publishing them online                             |
-| 18 | Exploring Python Notebooks                           | Introduction to Jupyter Notebooks and setup                                |
-| 19 | Basic Python Programming                             | Python essentials for data handling                                        |
-| 20 | NumPy (Numerical Python)                             | Performing numerical operations using NumPy                                |
-| 21 | NumPy Exercises                                       | Practical tasks using NumPy                                                |
-| 22 | Pandas Data Manipulation                             | Cleaning and transforming data using Pandas                                |
-| 23 | Pandas Exercises                                      | Solving real dataset problems with Pandas                                  |
-| 24 | Matplotlib Visualization                             | Creating charts and graphs using Matplotlib                                |
-| 25 | Matplotlib Exercises                                  | Hands-on graph plotting using Matplotlib                                   |
-| 26 | Seaborn Visualization                                | Advanced data visualization with Seaborn                                   |
-| 27 | Kaggle Exploration                                   | Working with datasets and notebooks on Kaggle                              |
-| 28 | MySQL Database                                       | Understanding relational databases and MySQL commands                      |
-| 29 | NoSQL - MongoDB                                      | Learning NoSQL using MongoDB                                               |
-| 30 | ML, DL & NLP Projects                                | Covid X-ray detection (CNN) & Tag Identification using NLP                 |
+
+| Sl. No. | Project Name                                             | Description                                                                 |
+|--------:|----------------------------------------------------------|-----------------------------------------------------------------------------|
+| 1       | Introduction to AI & Data Analytics                      | Overview of AI and fundamentals of data analytics.                         |
+| 2       | Power Query - Excel                                      | Data cleaning and transformation using Power Query.                        |
+| 3       | Formula & Pivot Table - Excel                            | Working with Excel formulas and PivotTables for analysis.                  |
+| 4       | Dashboard & Charts - Excel                               | Creating interactive dashboards and visual reports.                        |
+| 5       | VBA Macros Automation - Excel                            | Automating Excel tasks using VBA macros.                                   |
+| 6       | Statistics                                                | Basics of statistics for data understanding.                               |
+| 7       | Permutation & Combination, Probability                   | Fundamental concepts in probability and combinatorics.                     |
+| 8       | Population and Sampling                                   | Understanding population vs sample and sampling methods.                   |
+| 9       | Probability Distribution                                  | Exploring normal, binomial, and other distributions.                       |
+| 10      | Hypothesis Testing                                        | Techniques to validate assumptions with statistical tests.                 |
+| 11      | Introduction to Tableau - BI Tools                        | Intro to Tableau for Business Intelligence and data visualization.         |
+| 12      | Analyze & Processing Data using Tableau                   | Data analysis workflows and techniques in Tableau.                         |
+| 13      | Creating Dashboard on Tableau                             | Building dashboards and visual storytelling.                               |
+| 14      | Introduction to PowerBI - BI Tools                        | Getting started with Power BI environment and tools.                       |
+| 15      | Dashboard on PowerBI & PowerBI.com                        | Creating and publishing dashboards in Power BI.                            |
+| 16      | Exploring Python Notebooks & Installing Libraries         | Using Jupyter notebooks and setting up libraries.                          |
+| 17      | Basic Python Programming for Data Analytics               | Python basics focused on analytics.                                        |
+| 18      | Numerical Python (Numpy)                                  | Data computation using NumPy arrays.                                       |
+| 19      | Pandas - Data Manipulation                                | Manipulating, cleaning, and organizing data using Pandas.                  |
+| 20      | Matplotlib - Data Visualization                           | Creating visualizations using Matplotlib.                                  |
+| 21      | Seaborn - Data Visualization                              | Advanced visualization using Seaborn.                                      |
+| 22      | Kaggle - Dataset, Notebook & Competition                  | How to use Kaggle datasets and notebooks, and join competitions.           |
+| 23      | MySQL Database                                            | SQL queries and database operations using MySQL.                           |
+| 24      | SQL Python                                                | Integrating SQL with Python for data querying.                             |
+| 25      | NoSQL - MongoDB                                           | Working with MongoDB for unstructured data.                                |
+| 26      | Introduction to Machine Learning                          | ML concepts, types, and real-world applications.                           |
+| 27      | Evaluating & Deploying ML Algorithm                       | Model evaluation metrics and deployment process.                           |
+| 28      | Introduction to Deep Learning                             | Deep learning basics and neural networks.                                  |
+| 29      | Covid-19 Detection from X-Ray Images using CNN            | Implementing CNN for X-ray image classification.                           |
+| 30      | Tag Identification using NLP                              | NLP techniques for text classification and tag extraction.                 |
 
 ---
 
